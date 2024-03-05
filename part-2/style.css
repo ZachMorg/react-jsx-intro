@@ -1,0 +1,7 @@
+.tweet{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+    background-color: rgb(203, 234, 245);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
